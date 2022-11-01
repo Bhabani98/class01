@@ -2,9 +2,9 @@
 
 let x=45;
 
-if(x%3==0){
-console.log("even")
+if(x%2==0){
+console.log("even number");
 }
 else{
-console.log("odd")
+console.log("odd number");
 }
